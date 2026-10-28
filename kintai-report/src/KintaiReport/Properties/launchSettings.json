@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "サンプルデータで実行": {
+      "commandName": "Project",
+      "commandLineArgs": "\"$(ProjectDir)..\\..\\sample\\勤怠サンプル.xlsx\" -o \"$(ProjectDir)..\\..\\sample\\勤怠分析レポート_サンプル.pdf\""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+# setup.bat が作成するもの
+sd-scripts/
+python-embed/
+
+# 実行時に作られるもの
+settings.json
+settings.tmp
+output/
+__pycache__/
+*.pyc
